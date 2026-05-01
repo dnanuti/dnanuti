@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Diana! 👋
 
-<!--
-**dnanuti/dnanuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer focused on building reliable, scalable systems and contributing to the cloud native ecosystem.  
+I care about practical engineering, clean design, and shipping things that work well in the real world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About me
+
+- Senior Software Engineer  
+- Public Speaker  
+- Open-Source Contributor  
+
+---
+
+## 📊 Stats & Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dnanuti)
+
+<img 
+  src="https://ghstats.dev/api/card?username=dnanuti" 
+  alt="GitHub Stats"
+/>
+
+---
+
+## 🌐 Open Source
+
+![DevStats Card](https://devstats.me/?username=dnanuti)
+
+[![CNCF ContribCard](https://img.shields.io/badge/ContribCard-View-orange?style=for-the-badge)](https://contribcard.cncf.io/dnanuti)
