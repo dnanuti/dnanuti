@@ -17,11 +17,6 @@ I care about practical engineering, clean design, and shipping things that work 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dnanuti)
 
-<img 
-  src="https://ghstats.dev/api/card?username=dnanuti" 
-  alt="GitHub Stats"
-/>
-
 ---
 
 ## 🌐 Open Source
