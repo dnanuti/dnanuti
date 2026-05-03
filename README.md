@@ -21,6 +21,5 @@ I care about practical engineering, clean design, and shipping things that work 
 
 ## 🌐 Open Source
 
-![DevStats Card](https://devstats.me/?username=dnanuti)
 
 [![CNCF ContribCard](https://img.shields.io/badge/ContribCard-View-orange?style=for-the-badge)](https://contribcard.cncf.io/dnanuti)
