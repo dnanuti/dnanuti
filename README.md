@@ -15,7 +15,7 @@ I care about practical engineering, clean design, and shipping things that work 
 
 ## 📊 Stats & Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dnanuti&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dnanuti&theme=vue&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 
